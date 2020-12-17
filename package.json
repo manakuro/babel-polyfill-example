@@ -1,0 +1,13 @@
+{
+  "name": "babel-and-polyfill-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "babel": "babel"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
+  }
+}
